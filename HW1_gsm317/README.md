@@ -9,6 +9,11 @@ Finished Lab 1 to setup a gittest_gsm317 and connect to my github account (gsmay
 Set up my environment by creating the directory PUI2016_gsm317 and adding an variable and alias to my profile .bashrc using emacs editor.
 
 .bashrc with variable and alias defined:
+![Screenshot 1 Assignment 2: my .bashrc](bashrc_gsm317.PNG)
 
+sucessfull commands:
+![Screenshot 1 Assignment 2: my sucessful commands using $PUI2016 and the pui2016 alias](alias_pui2016_gsm317.PNG)
+
+*Assignment 3 (G. Mayes)*
 
 
