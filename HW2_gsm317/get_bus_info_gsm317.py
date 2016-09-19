@@ -60,5 +60,5 @@ for data2 in data2:
     fout.writerow([data2['MonitoredVehicleJourney']['VehicleLocation']['Latitude'],
                   data2['MonitoredVehicleJourney']['VehicleLocation']['Longitude'],
                   stop_name2,
-                  data2['MonitoredVehicleJourney']['MonitoredCall']['Extensions']['Distances']['PresentableDistance']])
+                  stop_status2])
 
