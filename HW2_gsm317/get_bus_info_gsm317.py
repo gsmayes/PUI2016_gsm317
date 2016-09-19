@@ -38,19 +38,6 @@ data2 = data1['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['Vehicl
 #Modified from example by 'the Tin Man' at 
 #http://stackoverflow.com/questions/1871524/how-can-i-convert-json-to-csv-with-python
 
-stop_name = data2[0]['MonitoredVehicleJourney']['MonitoredCall']['StopPointName']
-
-if len(stop_name) > 0:
-    stop_name2 = stop_name
-else:
-    stop_name2 = "N/A"
-    
-stop_status = data2[0]['MonitoredVehicleJourney']['MonitoredCall']['Extensions']['Distances']['PresentableDistance']
-
-if len(stop_status) > 0:
-    stop_status2 = stop_status
-else:
-    stop_status2 = "N/A"
 
 fout = csv.writer(open(filename, 'wb+'))
 
@@ -59,6 +46,6 @@ fout.writerow(['Latitude', 'Longitude', 'Stop Name', 'Stop Status'])
 for data2 in data2:
     fout.writerow([data2['MonitoredVehicleJourney']['VehicleLocation']['Latitude'],
                   data2['MonitoredVehicleJourney']['VehicleLocation']['Longitude'],
-                  stop_name2,
-                  stop_status2])
+                  data2['MonitoredVehicleJourney']['MonitoredCall']['StopPointName'],
+                  data2['MonitoredVehicleJourney']['MonitoredCall']['Extensions']['Distances']['PresentableDistance']])
 
