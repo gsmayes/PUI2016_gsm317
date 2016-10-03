@@ -8,4 +8,4 @@
 | Question to be Answered | Does Gender Influence Colour Choice in the Treatment of Visual Stress? |  |
 | H0 | Ranks test groups <= Ranks control group |  |
 | alpha | -----: |  |
-| link to paper | | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326  |  |   
+| link to paper | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326  |  |   
