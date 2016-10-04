@@ -6,7 +6,7 @@ The development of their hypothesis is a little confusing in the wording. I take
 
 ## b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test was not chosen yet)
 
-I don't agree with the assumption that data contains outliers, because the Citibike website states:
+I don't agree with the assumption that the data contains outliers, because the Citibike website states:
 
 *"This data has been processed to remove trips that are taken by staff as they service and inspect the system, trips that are taken to/from any of our “test” stations (which we were using more in June and July 2013), and any trips that were below 60 seconds in length (potentially false starts or users trying to re-dock a bike to ensure it's secure)"
 
