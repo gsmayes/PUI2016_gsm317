@@ -2,7 +2,7 @@
 
 ## a. verify that their Null and alternative hypotheses are formulated correctly
 
-The development of their hypothesis is a little confusing in the wording. I take the alternative hypothesis to be "There is no [significant] difference in the average [mean] trip duration of subscribers in summer months as compared to the winter months." I think their null and alternative hypothesis should be reversed. Also, I'm not sure if the null hypothesis stated (H0 = u1 - u2 = 0) is falsibiable.
+The development of their hypothesis is a little confusing in the wording. I take the alternative hypothesis to be "There is no [significant] difference in the average [mean] trip duration of subscribers in summer months as compared to the winter months." I think their null and alternative hypothesis should be reversed. Also, I'm not sure if the null hypothesis stated (H0 = u1 - u2 = 0) is falsifiable.
 
 ## b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test was not chosen yet)
 
