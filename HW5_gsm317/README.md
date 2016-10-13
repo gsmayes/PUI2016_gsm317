@@ -10,6 +10,7 @@ Control sample = % of fat lost by exercise over study period
 Test sample = % of fat lost by dieting over study period
 
 Ha = %fat_diet > %fat_exercise
+
 H0 = %fat_diet <= %fat_exercise
  
 
@@ -18,6 +19,7 @@ H0 = %fat_diet <= %fat_exercise
 H0 = Assuming a 'yes' response to the poll question "From everything you know about Bill Clinton, does he have the honesty and integrity you expect in a president?" is an indication of trust, the null hypothesis is that the percentage of 'yes' responses is less than or equal to 'no' response, within a significance of 5%.
 
 Ha = %yes > %no
+
 H0 = %yes <= %no
  
  
@@ -27,6 +29,7 @@ H0= The percentage of cessation rates of former smokers that used the nicotine p
 Cessation rate = CR
 
 Ha: CR_nicotine > CR_placebo
+
 H0: CR_nicotine <= CR_placebo
  
  
@@ -35,6 +38,9 @@ H0: CR_nicotine <= CR_placebo
 H0= The IQ of children measured at ages 1, 2, 3, and 4 years is less than or equal to the IQ of children who had mothers that smoked during pregnancy as for the control group.
 
 H0_1: IQ_non_1 <= IQ_smoke_1 
+
 H0_2: IQ_non_2 <= IQ_smoke_2
+
 H0_3: IQ_non_3 <= IQ_smoke_3
+
 H0_4: IQ_non_4 <= IQ_smoke_4 
