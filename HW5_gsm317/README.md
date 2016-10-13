@@ -1,3 +1,11 @@
+#Gregory Mayes, PUI HW5, gsm317
+
+#Assignment 1
+For this assignment, I worked alone to test if guassion model is appropriate for the distribution of ages of citibike riders. I used a KS test and Anderson-Darling test to the goodnes of fit against a normal and logistical distribution.
+
+#Assignment 2
+For this assignment, I worked alone to compare the income of female to males using census data and develop of predictive regression model to predict a female's income when given a male's income.
+
 #Assignment 3: 
 Practice formulating the null hypothesis. For this assignment I worked with Dana Karwas; she developed the initial narative hypothesis, which I comment on and added the equations.
 
