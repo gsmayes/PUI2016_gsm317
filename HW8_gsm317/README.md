@@ -5,7 +5,7 @@
  - The legend colors don't match the plot, red looks purple due to an overlap with blue.
  - The error bars are very small relative to the plot bars and are difficult to differentiate between the days of the week.
  - The customer plot bars are very small compared to subscribers and it's difficult to gauge their value against each other and the y-axis
- - The figure caption contained the ipython notebook doesn't define rides (citibike) or the data source.
+ - The figure caption contained in the ipython notebook doesn't define rides (citibike) or the data source.
  
 Overall, I think the main point of this plot is the comparison of customer rides in relation to the subscriber rides. Rather than representing total rides for both categories, maybe show total rides in thousands and the percentage of customer rides against total rides. 
 
