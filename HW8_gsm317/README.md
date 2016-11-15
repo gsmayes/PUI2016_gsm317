@@ -1,7 +1,7 @@
 ![Visualization to review by cx495](https://raw.githubusercontent.com/gsmayes/PUI2016_gsm317/master/HW8_gsm317/cx495.png)
 
 ## Review of visualization by cx495 
- - The axis tick labels for number of rides is difficult to read, as are both axis description labels.
+ - The axis tick labels for number of rides is difficult to read, as are the description labels for both axes.
  - The legend colors don't match the plot, red looks purple due to an overlap with blue.
  - The error bars are very small relative to the plot bars and are difficult to differentiate between the days of the week.
  - The customer plot bars are very small compared to subscribers and it's difficult to gauge their value against each other and the y-axis
