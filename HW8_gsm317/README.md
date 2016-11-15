@@ -7,7 +7,7 @@
  - The customer plot bars are very small compared to subscribers and it's difficult to gauge their value against each other and the y-axis
  - The figure caption contained in the ipython notebook doesn't define rides (citibike) or the data source.
  
-Overall, I think the main point of this plot is the comparison of customer rides in relation to the subscriber rides. Rather than representing total rides for both categories, maybe show total rides in thousands and the percentage of customer rides against total rides. 
+Overall, I think the main point of this plot is the comparison of customer rides in relation to the subscriber rides. Rather than representing total rides for both categories, maybe show total rides in thousands and the percentage of customer rides within the bar for total rides. 
 
 
 
