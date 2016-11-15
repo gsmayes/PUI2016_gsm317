@@ -7,7 +7,7 @@
  - The customer plot bars are very small compared to subscribers and it's difficult to gauge their value against each other and the y-axis
  - The figure caption contained in the ipython notebook doesn't define rides (citibike) or the data source.
  
-Overall, I think the main point of this plot is the comparison of customer rides in relation to the subscriber rides. Rather than representing total rides for both categories, maybe show total rides in thousands and the percentage of customer rides within the bar for total rides. 
+Overall, I think the main point of this plot is the comparison of customer rides in relation to the subscriber rides through out the week. Rather than representing total rides for both categories, maybe show total rides in thousands and the percentage of customer rides within the bar for total rides. Also, I'm not sure if there was a particular reason for selecting the month of March, but I suggest using multiple months of data during peak periods of outdoor activity (June, July and August). It would also be interesting to investigate if there is a correlation between customer rides and tourist population (or hotel occupancy rates, airport arrivals, etc.)
 
 
 
@@ -18,4 +18,4 @@ Overall, I think the main point of this plot is the comparison of customer rides
  - It might be helpful to represent the number of incidents as per capita against inmate population in thousands. This would make the scale of each axis more similar.
  - It's not clear to me why specifically stabbings/slashings were used rather than the overall violent incidents, which may be less random.
 
-Overall, the plot is very clear in conveying it's point, but a more interesting analysis might be using the New York State inmate population of 55,245 for the larger sample size and breaking the data down by prison facility or even better by block to increase data points. Also, further specify the population by security level (maximum), gender (males are much more likely to commit violent crimes), age and/or sentence length.
+Overall, the plot is very clear in conveying it's point, but a more interesting analysis might be using the New York State inmate population of 55,245 for the larger sample size and breaking the data down by prison facility or even better by cell block to increase data points. Also, further specify the population by security level (maximum), gender (males are much more likely to commit violent crimes), age and/or sentence length. Also, this would allow the use of a single year of data, which would better represent the relationship between violence and inmate population by minimizing unknown variables through time (changing policies, etc.).
