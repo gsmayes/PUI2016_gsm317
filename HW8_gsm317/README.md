@@ -1,6 +1,8 @@
+
+# Visualization by cx495
 ![Visualization to review by cx495](https://raw.githubusercontent.com/gsmayes/PUI2016_gsm317/master/HW8_gsm317/cx495.png)
 
-## Review of visualization by cx495 
+## Review by gsm317
  - The axis tick labels for number of rides is difficult to read, as are the description labels for both axes.
  - The legend colors don't match the plot, red looks purple due to an overlap with blue.
  - The error bars are very small relative to the plot bars and are difficult to differentiate between the days of the week.
@@ -10,10 +12,10 @@
 Overall, I think the main point of this plot is the comparison of customer rides in relation to the subscriber rides through out the week. Rather than representing total rides for both categories, maybe show total rides in thousands and the percentage of customer rides within the bar for total rides. Also, I'm not sure if there was a particular reason for selecting the month of March, but I suggest using multiple months of data during peak periods of outdoor activity (June, July and August). It would also be interesting to investigate if there is a correlation between customer rides and tourist population (or hotel occupancy rates, airport arrivals, etc.)
 
 
-
+# Visualization by lag552
 ![Visualization to review by lag552](https://raw.githubusercontent.com/gsmayes/PUI2016_gsm317/master/HW8_gsm317/lag552.png)
 
-## Review of visualization by lag552 
+## Review by gsm317
  - The data being used is not clear to me because I don't believe there are any prisons for violent offenders in New York City. I suspect the inmate population represents detention facilities operated by the NYC Department of Corrections, chiefly on Rikers Island and with smaller facilities in several boroughs. Traditionally, prisons are facilities for long term incarceration after conviction, while jails are temperary holding facilities for shorter sentences, people awaiting trail or court appearances on appeal. It's also not clearly stated if the population is men, women or both and what level of incarceration or security.
  - It might be helpful to represent the number of incidents as per capita against inmate population in thousands. This would make the scale of each axis more similar.
  - It's not clear to me why specifically stabbings/slashings were used rather than the overall violent incidents, which may be less random.
