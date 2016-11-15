@@ -9,6 +9,8 @@
  
 Overall, I think the main point of this plot is the comparison of customer rides in relation to the subscriber rides. Rather than representing total rides for both categories, maybe show total rides in thousands and the percentage of customer rides against total rides. 
 
+
+
 ![Visualization to review by lag552](https://raw.githubusercontent.com/gsmayes/PUI2016_gsm317/master/HW8_gsm317/lag552.png)
 
 ## Review of visualization by lag552 
