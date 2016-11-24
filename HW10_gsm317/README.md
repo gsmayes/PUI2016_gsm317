@@ -1,4 +1,4 @@
 # Gregory Mayes
 ## HW10, gsm317
 
-All assignment completed soley by myself.
+All assignment completed solely by myself.
